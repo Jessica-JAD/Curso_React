@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "name": "04-ContinuacionPrueba-CustommHooks-Testing",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/Jessica-JAD/Curso_React.git",
+  "author": "Jessica-JAD <ing.jessead@gmail.com>",
+  "license": "MIT"
+}
